@@ -1,0 +1,7 @@
+name: Dig
+author: Aliya
+main: com.javaminecraft.Dig
+commands:
+    dig:
+        description: digs with radius
+version: 1.0
